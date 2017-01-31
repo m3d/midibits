@@ -1,0 +1,2 @@
+# midibits
+Experiments with MIDI
